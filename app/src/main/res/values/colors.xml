@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFFFFF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#00BAF2</color>
+    <color name="placeholder_bg">#dddddd</color>
+
+    <color name="background">#121212</color>
+    <color name="colorLine">#333333</color>
+
+    <color name="skyBlue">#AFD5EC</color>
+    <color name="yellow">#F4F50A</color>
+
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+
+    <color name="bottomNavigationTextColor">#B2B2B2</color>
+    <color name="bottomNavigationTintColor">#B2B2B2</color>
+    <color name="bottomNavigationSelectedColor">#FC4926</color>
+    <color name="statusBarColor">#000</color>
+    <color name="whiteBodyColor">#FCFCFC</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="primaryTextColor">#25C0DE</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="frutorial_title">#4c4c4c</color>
+
+    <!--colors for light mode-->
+    <color name="contentBodyColor">#D0BCFF</color>
+    <color name="contentTextColor">#FC4926</color>
+    <color name="bottomNavigationBackground">#F7F7F7</color>
+</resources>
